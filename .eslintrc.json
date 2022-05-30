@@ -15,13 +15,7 @@
                 "after": true
             }
         ],
-        "brace-style": [
-            "error",
-            "stroustrup",
-            {
-                "allowSingleLine": true
-            }
-        ],
+        "brace-style": "off",
         "comma-dangle": [
             "error",
             "always-multiline"
@@ -85,10 +79,7 @@
             "always"
         ],
         "prefer-const": "off",
-        "quotes": [
-            "error",
-            "single"
-        ],
+        "quotes": "off",
         "semi": [
             "error",
             "always"
